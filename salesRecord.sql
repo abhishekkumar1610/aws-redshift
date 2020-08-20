@@ -13,4 +13,5 @@ region Varchar(100)
 ,totalrevenue Varchar(100)
 ,totalcost Varchar(100)
 ,totalprofi Varchar(100)
-);
+)
+DIST STYLE EVEN;
