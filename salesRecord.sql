@@ -1,0 +1,16 @@
+CREATE TABLE traningdb.salesRecord(
+region Varchar(100)
+,country Varchar(100)
+,itemtype Varchar(100)
+,saleschannel Varchar(100)
+,orderpriority Varchar(100)
+,orderdate Varchar(100)
+,orderid Varchar(100)
+,shipdate Varchar(100)
+,unitssold Varchar(100)
+,unitprice Varchar(100)
+,unitcost Varchar(100)
+,totalrevenue Varchar(100)
+,totalcost Varchar(100)
+,totalprofi Varchar(100)
+);
